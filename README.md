@@ -2,6 +2,10 @@
 
 Exemplos para projeto final do módulo de Introdução ao Desenvolvimento com JS - SENAC RS 2023
 
+## Trabalho final (sugestão)
+
+[Cadastro Hemocentro](https://satisfying-trust-330.notion.site/Trabalho-Final-Hemocentro-ea4d33e0d79248a5826c3fae64942a85)
+
 ## Material de aula 
 
 [Aula 01 - Conhecendo o computador e o terminal](https://docs.google.com/presentation/d/1bTxYYEIVfA8_LQ05R3KpGQ-q7FVHNUSEhmeBVenM0jM/edit#slide=id.p2)
