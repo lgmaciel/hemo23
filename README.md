@@ -30,6 +30,8 @@ Exemplos para projeto final do módulo de Introdução ao Desenvolvimento com JS
 
 [Aula 07 - Objetos](https://satisfying-trust-330.notion.site/Objetos-e8ea83d9ec874bc3823c6ce5af6190a2)
 
+[Aula 07 - Exercícios](https://satisfying-trust-330.notion.site/Objetos-e8ea83d9ec874bc3823c6ce5af6190a2)
+
 [Aula 08 - Condicionais](https://docs.google.com/presentation/d/1MDiYKlPwFPiC-OPu5V4_NpKAa-7h6zw2oHye9A8wzM0/edit#slide=id.p34)
 
 [Aula 09 - Laços](https://docs.google.com/presentation/d/1lmbFo-2jVmBJdCIg0jNqgPo_qBLOaFoxZc_ciTqXfVU/edit#slide=id.p30)
